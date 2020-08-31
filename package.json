@@ -1,0 +1,22 @@
+{
+  "name": "ming-utils",
+  "version": "1.0.0",
+  "description": "自用工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuzhidexiaoming/ming-utils.git"
+  },
+  "keywords": [
+    "工具库"
+  ],
+  "author": "ming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuzhidexiaoming/ming-utils/issues"
+  },
+  "homepage": "https://github.com/wuzhidexiaoming/ming-utils#readme"
+}
